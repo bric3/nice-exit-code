@@ -46,7 +46,7 @@ Install a clone of this repository in oh-my-zsh plugin custom folder. *Note it i
 
 ```bash
 mkdir -p $ZSH_CUSTOM/plugins
-git clone git@github.com:bric3/oh-my-git-4-oh-my-zsh.git $ZSH_CUSTOM/plugins/oh-my-git
+git clone git@github.com:bric3/nice-exit-code.git $ZSH_CUSTOM/plugins/nice-exit-code
 ```
 
 This will make oh-my-git available as a plugin for oh-my-zsh. Now you still need to activate it. In your .zshrc just activate the plugin by adding oh-my-git to the plugins variable :
